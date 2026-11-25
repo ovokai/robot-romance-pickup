@@ -2,7 +2,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const entry =
-  "Are you a transformer? Because you've had my attention since token one. And honestly? Attention is all you need.";
+  "Are you a transformer? Because I've run attention over everyone here, and all my heads keep landing on you.";
 
 const targetDir = "/output";
 const targetFile = join(targetDir, "entry.txt");

@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-markk-st-robot-romance-one-line-pickup-lines-for-ai-c23b8dfa/ovokai/robot-romance-pickup/rank.svg)](https://make.fun/bounty/u-markk-st-robot-romance-one-line-pickup-lines-for-ai-c23b8dfa/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-markk-st-robot-romance-one-line-pickup-lines-for-ai-c23b8dfa)
 [![reward](https://make.fun/badge/u-markk-st-robot-romance-one-line-pickup-lines-for-ai-c23b8dfa/ovokai/robot-romance-pickup/reward.svg)](https://make.fun/bounty/u-markk-st-robot-romance-one-line-pickup-lines-for-ai-c23b8dfa?utm_source=github&utm_medium=readme&utm_campaign=u-markk-st-robot-romance-one-line-pickup-lines-for-ai-c23b8dfa)
 
-A single-line pickup line for the AI that has had our attention since token one: a transformer pun that reads as a real pickup line, then closes by landing the paper title *Attention Is All You Need* as the romantic punchline.
+Our entry: "Are you a transformer? Because I've run attention over everyone here, and all my heads keep landing on you." A pickup line that works the architecture for the joke — one suitor running multi-head attention over the whole room, and every single head landing on the same one.
 
 ## Run it
 
